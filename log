@@ -1,0 +1,60 @@
+// 1)With list remove after equal
+gram Proccess
+File= 1087
+Measure Kgram
+160800
+160800
+Total measure= 117465.0
+Total gram1= 160800.0
+containement= 0.73050374
+
+// 2)Without list remove after equal
+gram Proccess
+File= 1087
+Measure Kgram
+160800
+160800
+Total measure= 161409.0
+Total gram1= 160800.0
+containement= 1.0037873
+
+// 3)Same with 1 but using temp for kgram2
+gram Proccess
+File= 1087
+Measure Kgram
+160800
+160800
+Total measure= 117465.0
+Total gram1= 160800.0
+containement= 0.73050374
+
+// 4)Hello World without library
+gram Proccess
+File= 16
+Measure Kgram
+33
+33
+14
+Total measure= 75.0
+Total gram1= 33.0
+containement= 2.2727273
+(Wrong with calculation)
+
+// 5) JunkGot2
+gram Proccess
+File= 62
+Measure Kgram
+3793
+3793
+Total measure= 2590.0
+Total gram1= 3793.0
+containement= 0.68283683
+
+gram Proccess
+File= 62
+Measure Kgram
+3793
+3793
+Total measure= 2590.0
+Total gram1= 3793.0
+containement= 0.68283683

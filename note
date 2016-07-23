@@ -1,0 +1,81 @@
+Tiap file adalah birthmark
+
+1) Buat birthmark (tidak peduli nama)
+2) Bandingkan antar birthmark
+
+
+To do
+
+-Disassemble apk taruh dalam temp / project 
+-Buat array opcode
+-Baca string tiap file 
+-Masukkan kata yang ketemu dalam opcode dalam array
+-buat gram sebanyak n dari aray 0 - 7 , 1 - 8 ,(n-7) - n , masukan array jadi birthmark 
+-chek per gram 
+
+Alur
+
+File -> arrOpcode -> Kgram
+
+R$drawable
+GoBicycle
+Setting
+SpriteTween
+Asset
+SoundSetting
+State
+SplashScreen
+SplashScreen$1
+AchievementScreen
+MenuScreen
+InfoScreen$1
+HighScoreScreen$1
+ResultScreen
+HighScoreScreen
+AchievementScreen$1
+GameScreen
+GameScreen$1
+InfoScreen
+ResultScreen$1
+MenuScreen$1
+R$string
+try
+Reward$6
+Info
+HighScore
+Reward$8
+Trash
+Menu$2
+Reward$5
+Menu
+Reward
+Info$2
+HighScore$1
+Reward$1
+City
+Text
+City$2
+Menu$1
+Reward$4
+Menu$5
+BikeActor
+Menu$6
+Menu$3
+Reward$9
+Result
+Reward$2
+CityScroll
+Menu$4
+City$1
+Reward$7
+Info$3
+EnemyCar
+Info$1
+Reward$3
+ButtonImage
+BuildConfig
+R
+R$layout
+R$attr
+GameScreen
+MainActivity

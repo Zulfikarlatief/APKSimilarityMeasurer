@@ -1,0 +1,7 @@
+Alur Proses Program (method)
+
+main -> selectfileButton -> dissasembleButton -> executeApkTool
+    -> buttonProses -> gramProcess -> listingFile -> measureKgram -> countSimilar 
+
+
+- Hasil dissasemble ada di dalam project
